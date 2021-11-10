@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/iamsahil1910/git-badges)](https://badges.pufler.dev)
 
 
 - 🔭 I’m currently working on my skills and making personal Projects.
