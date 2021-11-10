@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/{iamsahil1910}/count.svg)
+
+
 - 🔭 I’m currently working on my skills and making personal Projects.
 - 🌱 I’m currently learning JavaScript and TypeScript.
 - 👯 I’m looking to collaborate on [Covid19stats](https://github.com/iamsahil1910/covid19stats)
