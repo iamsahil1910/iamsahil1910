@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{iamsahil1910}/count.svg)
+<a href="https://github.com/iamsahil1910">
+<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahil1910&layout=compact&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+ </a>
 
 
 - 🔭 I’m currently working on my skills and making personal Projects.
