@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/iamsahil1910/git-badges)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=iamsahil1910&style=flat-square)
 
 
 - 🔭 I’m currently working on my skills and making personal Projects.
